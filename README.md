@@ -51,6 +51,6 @@ New Animation:
 
 ## WARNING !
 The use of acrylic tube is MANDATORY in this assembly!
-It keeps the plates in place at the top, prevents air friction, and ensures GREATER SAFETY to the touch.
+It keeps the boards in place at the top, prevents air friction, and ensures GREATER SAFETY to the touch.
 Its absence can cause PHYSICAL OR VISION DAMAGE, the rotation speed corresponds to between 25 and 42 km/h!
 

@@ -49,8 +49,8 @@ New Animation:
 - void ARDUINO_ISR_ATTR, this is a timer that is run 100 times per turn, the reference of the new effect must also be included, or copy 3 lines from another, so that it can be clearly displayed.
 - Shared.h file shares variables between VOXEL.ino and effect.h, or use static variables to avoid conflicts.
 
-## Warning
+## WARNING !
 The use of acrylic tube is MANDATORY in this assembly!
 It keeps the plates in place at the top, prevents air friction, and ensures GREATER SAFETY to the touch.
-ITS ABSENCE CAN CAUSE PHYSICAL OR VISION DAMAGE, THE ROTATION SPEED CORRESPONDS TO BETWEEN 25 AND 42 KM/H!
+Its absence can cause PHYSICAL OR VISION DAMAGE, the rotation speed corresponds to between 25 and 42 km/h!
 

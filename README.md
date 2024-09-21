@@ -1,6 +1,6 @@
 # Volumetric-Display, with ESP32 and LED matrix
 
-#VOXEL by #dropes
+VOXEL by #dropes
 
 ## VOXEL - HARDWARE
 

@@ -2,7 +2,7 @@
 
 #VOXEL by #dropes
 
-##VOXEL - HARDWARE
+## VOXEL - HARDWARE
 
 - The motor I used the head of a VCR, after opening it, I placed the power transmitter coils inside, the ferrites had to be filed (very carefully) to fit well and then glued them.
 - The distance between the coils is very important and must be calibrated in advance, with the help of a power supply with adjustable maximum current. In the receiver, you must connect a low value resistance 2ohms, or a 20W 12V lamp, with a multimeter to monitor the current passing through it.
@@ -21,7 +21,7 @@ More calibrations:
 - The tube alignment must also be done, so that it has as little eccentricity as possible.
   These processes can be tedious and time-consuming, be patient.
 
-##VOXEL - SOFTWARE
+## VOXEL - SOFTWARE
 
 Project carried out in Arduino IDE v2.2.1
 The 1st programming must be via USB, the rest can be via Wi-Fi for the convenience of keeping the tube, this is the best option, the Arduino-ota routine must be configured in advance, with the name and password of the network to be connected, this part must always remain in the code.
@@ -49,9 +49,7 @@ New Animation:
 - void ARDUINO_ISR_ATTR, this is a timer that is run 100 times per turn, the reference of the new effect must also be included, or copy 3 lines from another, so that it can be clearly displayed.
 - Shared.h file shares variables between VOXEL.ino and effect.h, or use static variables to avoid conflicts.
 
-
-
-The use of acrylic tube is mandatory in this assembly!
-It keeps the plates in place at the top, prevents air friction, and ensures greater safety to the touch.
-Its absence can cause physical or vision damage, the rotation speed corresponds to between 25 and 42 km/h!
+THE USE OF ACRYLIC TUBE IS MANDATORY IN THIS ASSEMBLY!
+IT KEEPS THE PLATES IN PLACE AT THE TOP, PREVENTS AIR FRICTION, AND ENSURES GREATER SAFETY TO THE TOUCH.
+ITS ABSENCE CAN CAUSE PHYSICAL OR VISION DAMAGE, THE ROTATION SPEED CORRESPONDS TO BETWEEN 25 AND 42 KM/H!
 

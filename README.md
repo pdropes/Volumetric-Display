@@ -4,6 +4,7 @@ VOXEL by #dropes
 
 
 <img src="https://github.com/pdropes/Volumetric-Display/blob/main/Photos/POV_Cover.jpg" width=1024>
+Video: https://youtu.be/vmjfssugH9E
 
 
 ## VOXEL - HARDWARE

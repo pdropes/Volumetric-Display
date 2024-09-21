@@ -2,6 +2,10 @@
 
 VOXEL by #dropes
 
+
+<img src="https://github.com/pdropes/Volumetric-Display/blob/main/Photos/POV_Cover.jpg" width=1024>
+
+
 ## VOXEL - HARDWARE
 
 - The motor I used the head of a VCR, after opening it, I placed the power transmitter coils inside, the ferrites had to be filed (very carefully) to fit well and then glued them.

@@ -45,9 +45,8 @@ Programming steps:
 New Animation:
 - When programming more effects, you must create a blank file in the same folder, extension .h
 - Open VOXEL.ino
- -Include the new file name in “FX”
+- Include the new file name in “FX”
 - Next, the “FXlast” declaration, must be changed to the last effect number.
-
 - void ISR_IR, which is the int. that detects the complete turn via IR, the procedure to be carried out in this new effect must be included (check the examples already written).
 - void ARDUINO_ISR_ATTR, this is a timer that is run 100 times per turn, the reference of the new effect must also be included, or copy 3 lines from another, so that it can be clearly displayed.
 - Shared.h file shares variables between VOXEL.ino and effect.h, or use static variables to avoid conflicts.

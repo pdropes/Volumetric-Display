@@ -22,8 +22,9 @@ Video: https://youtu.be/vmjfssugH9E
 - The PCBs must have the minimum thickness possible, with 0.6mm being a good value, with the LED controller ICs touching them. Their color doesn't matter much, in rotation it becomes unnoticeable.
 
 More calibrations:
-- Balancing was achieved by placing a piezo on one of the legs of the box, visualizing the signal amplitude on the oscilloscope, then placing washers at certain points, where the amplitude was lower when rotating.
-- The tube alignment must also be done, so that it has as little eccentricity as possible.
+- The 1st balance is static, with the boards horizontal and without the tube, weights must be placed, so that no differences are noticed when rotating manually, always horizontally.
+- The dynamic balance was achieved by placing a piezo on one of the legs of the box, visualizing the signal amplitude on the oscilloscope, then placing washers at certain points, where the displayed amplitude reduces.
+- The tube alignment must also be done, looking for eccentricity and having as little oscillation as possible.
   These processes can be tedious and time-consuming, be patient.
 
 ## VOXEL - SOFTWARE
@@ -55,7 +56,7 @@ New Animation:
 - Shared.h file shares variables between VOXEL.ino and effect.h, or use static variables to avoid conflicts.
 
 ## WARNING !
-The use of acrylic tube is MANDATORY in this assembly!
+The use of acrylic tube is NECESSARY in this assembly!
 It keeps the boards in place at the top, prevents air friction, and ensures GREATER SAFETY to the touch.
 Its absence can cause PHYSICAL OR VISION DAMAGE, the rotation speed corresponds to between 25 and 42 km/h!
 

@@ -25,7 +25,8 @@ More calibrations:
 - The 1st balance is static, with the boards horizontal and without the tube, weights must be placed, so that no differences are noticed when rotating manually, always horizontally.
 - The dynamic balance was achieved by placing a piezo on one of the legs of the box, visualizing the signal amplitude on the oscilloscope, then placing washers at certain points, where the displayed amplitude reduces.
 - The tube alignment must also be done, looking for eccentricity and having as little oscillation as possible.
-  These processes can be tedious and time-consuming, be patient.
+  
+These processes can be tedious and time-consuming, be patient.
 
 ## VOXEL - SOFTWARE
 
